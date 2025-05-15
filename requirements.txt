@@ -1,0 +1,10 @@
+torch==2.7.0
+transformers==4.51.3
+pillow==11.2.1
+opencv-python==4.11.0.86
+numpy==2.2.5 
+accelerate==1.6.0
+hf-xet==1.1.1
+streamlit==1.45.1
+streamlit-webrtc==0.62.4
+watchdog==6.0.0
